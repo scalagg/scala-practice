@@ -1,12 +1,14 @@
-## License
+Copyright © 2026 LunarLabs LLC. All rights reserved.
 
-Copyright © 2026 **LunarLabs LLC**. All rights reserved.
+This repository, including all source code, architecture, assets,
+documentation, and related materials, is the sole and exclusive property
+of LunarLabs LLC, operating through its software division Scala Studios.
 
-This repository, including all source code, architecture, assets, documentation, and related materials, is the sole and exclusive property of **LunarLabs LLC**, doing business through its software division **Scala Studios**.
+The source code is publicly viewable for transparency, educational
+reference, portfolio demonstration, and limited private internal
+experimentation only.
 
-The source code is made publicly viewable for transparency, educational reference, portfolio demonstration, and limited private internal experimentation only.
-
-### Permitted Use
+PERMITTED USE
 
 You may:
 
@@ -15,37 +17,42 @@ You may:
 - Modify the code for strictly private, non-commercial internal use
 - Reference portions of the code in independent original projects
 
-### Prohibited Use
+PROHIBITED USE
 
 You may not, without prior written consent from LunarLabs LLC:
 
-- Resell this codebase or any derivative work
+- Resell this codebase or derivative works
 - Redistribute this repository in whole or in part
-- Repackage or commercially exploit the software
-- Claim authorship or ownership of any portion of this project
+- Commercially exploit the software
+- Claim authorship or ownership of the project
 - Remove copyright or attribution notices
-- Use the Scala Studios or LunarLabs name, branding, logos, or identity
-- Offer hosting, SaaS, managed services, or public deployments using this code
+- Use the Scala Studios or LunarLabs LLC name, logos, or branding
+- Offer hosting, SaaS, or public deployments using this code
 - Represent modified versions as official releases
 
-### Dependencies / Support Disclaimer
+DEPENDENCIES / SUPPORT DISCLAIMER
 
-This project relies on internal components, private dependencies, proprietary systems, and custom platform modifications not included in this repository.
+This repository may rely on private dependencies, internal systems,
+proprietary tooling, or custom platform modifications not included here.
 
-No installation support, maintenance, warranties, updates, or compatibility guarantees are provided.
+No support, setup assistance, updates, warranties, or guarantees are
+provided.
 
-### Ownership
+OWNERSHIP
 
-No rights, title, trademark rights, or intellectual property rights are transferred by access to this repository.
+No rights, title, trademark rights, or intellectual property rights are
+transferred by access to this repository.
 
-All ownership remains exclusively with **LunarLabs LLC**.
+All ownership remains exclusively with LunarLabs LLC.
 
-### Governing Law / Jurisdiction
+GOVERNING LAW
 
-This license and any disputes arising from use of this repository shall be governed by the laws of the **State of Montana, United States**, without regard to conflict-of-law principles.
+This license shall be governed by the laws of the State of Montana,
+United States, without regard to conflict-of-law principles.
 
-Any legal action or proceeding shall be brought exclusively in the state or federal courts located in Montana.
+Any disputes shall be resolved exclusively in courts located in Montana.
 
-### Acceptance
+ACCEPTANCE
 
-By accessing, downloading, copying, or using any portion of this repository, you agree to these terms.
+By accessing, downloading, copying, or using any portion of this
+repository, you agree to these terms.
